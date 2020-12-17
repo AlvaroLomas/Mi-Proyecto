@@ -13,4 +13,5 @@ Que necesita para realizar un README
 1) Tener una cuenta de github 
 2) Clic en añadir un read me
 3) Empezar a escribir con comandos basicos que se han investigado
+4) Guardar los cambios.
 ```
