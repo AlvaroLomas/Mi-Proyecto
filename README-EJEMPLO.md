@@ -15,3 +15,4 @@ Que necesita para realizar un README
 3) Empezar a escribir con comandos basicos que se han investigado
 4) Guardar los cambios.
 ```
+_---Autor colaborativo: Jhony Pillajo---_
